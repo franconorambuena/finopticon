@@ -1,5 +1,5 @@
 # 📊 Finopticon
-
+<img width="978" height="629" alt="Image" src="https://github.com/user-attachments/assets/0c3bc698-f5e0-422c-b5dc-d0600c3695e7" />
 > **Gestor financiero personal local, ultraligero y privado**, desarrollado en C# utilizando Windows Forms. Diseñado para funcionar 100% offline sin dependencias externas pesadas.
 
 ---
